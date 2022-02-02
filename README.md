@@ -32,5 +32,7 @@ discontinued (stopped using) the service in the past few months. Your model must
 to carry out classification with this variable as the output.
 Note: Most of the data values are string values that represent real-life terms. Therefore, you
 must encode these as numbers before you train your model.
+
+
 ![Screenshot](dataexp.png)
 ![Screenshot](dataexp1.png)
